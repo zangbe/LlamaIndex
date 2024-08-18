@@ -6,7 +6,8 @@
 
 ## Before you start
 
-[Llama 3.1](https://llama.meta.com/) 모델 다운로드 필요
+- [Llama 3.1](https://llama.meta.com/) Model download required.
+- [Node.js](https://nodejs.org/en) (Requires version 18 or higher.)
 
 ## Installation
 
